@@ -1,0 +1,31 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "=",
+            "servers": {}
+        },
+        "owners": [
+            "747755016244166696"
+        ]
+    },
+    "discord": {
+        "servers": {},
+        "members": {
+            "747755016244166696": {
+                "neek": 102
+            },
+            "861137349614370874": {
+                "neek": 0
+            }
+        },
+        "users": {}
+    },
+    "blocks": {},
+    "custom": {
+        "VARIABLE": 2,
+        "boolean": true,
+        "server id": "333949691962195969",
+        "channel id": "874592010324037703",
+        "undefined-slowmode": true
+    }
+}
